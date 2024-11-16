@@ -1,1 +1,85 @@
-test
+Tworzenie Konkursu Muzycznego
+
+Jako zarejestrowany użytkownik, chcę stworzyć nowy konkurs muzyczny, wybierając od 2 do 4 utworów, aby zachęcić innych do głosowania i rywalizacji między utworami.
+Jako użytkownik tworzący konkurs, chcę sprawdzić, czy wybrane utwory spełniają co najmniej 3 z 4 wymogów indeksów kompatybilności, aby móc pomyślnie utworzyć konkurs.
+Jako użytkownik, chcę ustawić czas trwania konkursu i dostosować współczynniki ważenia indeksów, aby personalizować konkurs według własnych preferencji.
+Jako użytkownik, chcę wiedzieć, jaka opłata jest wymagana za utworzenie konkursu, aby podjąć świadomą decyzję o jego stworzeniu.
+Głosowanie na Utwory
+
+Jako użytkownik, chcę przeglądać dostępne konkursy, aby wybrać te, które mnie interesują.
+Jako użytkownik, chcę widzieć szczegółowe informacje o utworach w konkursie, takie jak tytuł, artysta, popularność, gatunek, nastrój i data wydania, aby dokonać świadomego wyboru.
+Jako użytkownik, chcę znać cenę głosu na każdy utwór, aby zdecydować, na który utwór oddać głos.
+Jako użytkownik, chcę oddawać głosy na wybrane utwory, aby wspierać swoich ulubionych artystów i uczestniczyć w konkursie.
+Obliczanie Ceny Głosu
+
+Jako użytkownik, chcę rozumieć, jak obliczana jest cena głosu na podstawie popularności i indeksów dopasowania, aby wiedzieć, dlaczego ceny różnią się między utworami.
+Jako użytkownik, chcę widzieć, że mniej popularne utwory mają niższą cenę głosu, aby być zachęconym do głosowania na mniej znanych artystów.
+Zakończenie Konkursu i Dystrybucja Nagród
+
+Jako użytkownik, chcę otrzymywać powiadomienia o zakończeniu konkursu, w którym uczestniczyłem, aby poznać jego wyniki.
+Jako użytkownik, który głosował na zwycięski utwór, chcę otrzymać część puli nagród, aby odzyskać koszt głosu i ewentualnie zyskać dodatkowe środki.
+Jako twórca konkursu, chcę otrzymać procent puli nagród w zależności od popularności konkursu, aby być wynagrodzonym za jego stworzenie.
+Jako użytkownik, chcę widzieć transparentne rozliczenie puli nagród, aby mieć pewność co do uczciwości systemu.
+Automatyzacja Procesów Konkursowych
+
+Jako użytkownik, chcę mieć pewność, że konkurs automatycznie przechodzi do kolejnego etapu po upływie zadanego czasu, aby proces był płynny i niezawodny.
+Jako twórca konkursu, chcę ustalić dokładny czas trwania konkursu, aby kontrolować harmonogram wydarzenia.
+Integracja z Spotify API
+
+Jako użytkownik, chcę wybierać utwory z bazy danych Spotify, aby mieć dostęp do szerokiej gamy aktualnych utworów muzycznych.
+Jako użytkownik, chcę widzieć aktualne informacje o popularności i innych parametrach utworów, aby dokonać świadomego wyboru podczas tworzenia lub głosowania w konkursie.
+Rejestracja i Logowanie
+
+Jako nowy użytkownik, chcę zarejestrować się w aplikacji w prosty sposób, aby zacząć korzystać z jej funkcji.
+Jako zarejestrowany użytkownik, chcę logować się bezpiecznie do aplikacji, aby mieć dostęp do swojego konta i historii aktywności.
+Profil Użytkownika i Zarządzanie Środkami
+
+Jako użytkownik, chcę widzieć historię moich konkursów i głosów, aby śledzić swoją aktywność.
+Jako użytkownik, chcę sprawdzać saldo mojego konta oraz historię transakcji, aby zarządzać swoimi środkami finansowymi.
+Jako użytkownik, chcę mieć możliwość doładowania i wypłaty środków, aby kontrolować swoje finanse w aplikacji.
+Powiadomienia i Aktualizacje
+
+Jako użytkownik, chcę otrzymywać powiadomienia o nowych konkursach, wynikach i ważnych aktualizacjach, aby być na bieżąco z wydarzeniami w aplikacji.
+Jako użytkownik, chcę dostosować ustawienia powiadomień, aby otrzymywać tylko te informacje, które mnie interesują.
+Bezpieczeństwo i Prywatność
+
+Jako użytkownik, chcę mieć pewność, że moje dane osobowe są chronione zgodnie z obowiązującymi przepisami, aby czuć się bezpiecznie korzystając z aplikacji.
+Jako użytkownik, chcę korzystać z bezpiecznych metod płatności i mieć pewność, że transakcje są zabezpieczone, aby chronić swoje środki finansowe.
+Interfejs Użytkownika
+
+Jako użytkownik, chcę korzystać z intuicyjnego i responsywnego interfejsu, aby łatwo nawigować po aplikacji i korzystać z jej funkcji.
+Jako użytkownik, chcę mieć dostęp do aplikacji na różnych urządzeniach (komputer, tablet, smartfon), aby móc korzystać z niej w dowolnym miejscu i czasie.
+Wsparcie i Pomoc Techniczna
+
+Jako użytkownik, chcę mieć dostęp do działu pomocy lub FAQ, aby szybko znaleźć odpowiedzi na moje pytania.
+Jako użytkownik, chcę móc skontaktować się z obsługą klienta w razie problemów, aby uzyskać niezbędne wsparcie.
+Mechanizmy Grywalizacji i Społeczność
+
+Jako użytkownik, chcę zdobywać odznaki lub punkty za aktywność w aplikacji, aby być motywowanym do dalszego udziału.
+Jako użytkownik, chcę dzielić się konkursami i wynikami w mediach społecznościowych, aby zaprosić znajomych i zwiększyć zaangażowanie.
+Administracja i Moderacja
+
+Jako administrator, chcę monitorować aktywność użytkowników i konkursów, aby zapewnić zgodność z regulaminem i przepisami prawa.
+Jako administrator, chcę mieć możliwość interweniowania w przypadku nadużyć lub naruszeń, aby chronić społeczność aplikacji.
+Skalowalność i Wydajność Systemu
+
+Jako użytkownik, chcę korzystać z aplikacji bez opóźnień i błędów, nawet przy dużej liczbie aktywnych konkursów i użytkowników, aby mieć pozytywne doświadczenia.
+Jako zespół deweloperski, chcemy zapewnić skalowalność infrastruktury, aby sprostać rosnącemu zapotrzebowaniu.
+Zgodność z Regulacjami Prawnymi
+
+Jako właściciel aplikacji, chcę zapewnić zgodność z przepisami dotyczącymi ochrony danych osobowych, transakcji finansowych i praw autorskich, aby działać legalnie i unikać sankcji.
+Jako użytkownik, chcę mieć pewność, że korzystanie z aplikacji jest legalne i bezpieczne, aby unikać potencjalnych problemów prawnych.
+Dostępność i Ułatwienia Dostępu
+
+Jako użytkownik z niepełnosprawnościami, chcę korzystać z aplikacji dostosowanej do moich potrzeb (np. obsługa czytników ekranu, odpowiedni kontrast), aby móc w pełni z niej korzystać.
+Personalizacja Doświadczenia
+
+Jako użytkownik, chcę mieć możliwość personalizacji ustawień aplikacji (np. motyw kolorystyczny, układ interfejsu), aby dostosować ją do własnych preferencji.
+Statystyki i Analizy
+
+Jako użytkownik, chcę mieć dostęp do statystyk moich konkursów i głosów, aby analizować swoje działania i ich efekty.
+Jako twórca konkursu, chcę widzieć dane o zaangażowaniu użytkowników w moim konkursie, aby ocenić jego sukces i planować przyszłe wydarzenia.
+Rozszerzenie Funkcjonalności (Planowane)
+
+Jako użytkownik, chcę mieć możliwość uczestniczenia w specjalnych wydarzeniach lub turniejach, aby doświadczyć nowych form rywalizacji.
+Jako użytkownik, chcę korzystać z dodatkowych funkcji społecznościowych, takich jak czat czy grupy zainteresowań, aby budować relacje z innymi miłośnikami muzyki.
