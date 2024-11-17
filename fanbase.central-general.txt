@@ -1,3 +1,43 @@
+# **Techniczny Opis Aplikacji fanbase.central**
+
+**fanbase.central** to nowoczesna aplikacja zbudowana na ekosystemie **Internet Computer Protocol (ICP)**, zaprojektowana do organizacji konkursów muzycznych i interakcji użytkowników.
+
+---
+
+## **Backend**
+- Napisany w **Rust**, działa w środowisku canisterów ICP.
+- Struktura backendu obejmuje:
+  - **Canister backendowy**: przechowuje informacje o użytkownikach i konkursach.
+  - **Canister managementu**: obsługuje logikę zarządzania użytkownikami i konkursami.
+- Planowane wdrożenie **canistra coina** do zarządzania funduszami i promocją aplikacji.
+
+---
+
+## **Frontend**
+- Zbudowany w **React** z użyciem **TypeScript**, **Tailwind CSS** i **Jotai** do zarządzania stanem.
+- Frontend jest wdrażany jako **asset canister** w ekosystemie ICP.
+- Projekt zoptymalizowany pod urządzenia mobilne i desktopowe.
+- Wizualna strona aplikacji tworzona w **Figma**, co zapewnia nowoczesny i intuicyjny design.
+
+---
+
+## **CI/CD i Pipeline’y**
+- Kod zarządzany na **GitHubie** z wdrożonymi pipeline’ami do:
+  - **Lintingu i formatowania** (Prettier, ESLint, rustfmt).
+  - **Automatycznego deploymentu** na środowiska testowe i produkcyjne.
+
+---
+
+## **Integracje**
+- Wykorzystywane jest **API Spotify** do pobierania danych o utworach, takich jak popularność, gatunek czy nastrój.
+
+
+
+
+
+
+
+
 **Najważniejsze User Stories dla Aplikacji "fanbase.central"**
 
 1. **Tworzenie Konkursu Muzycznego**
